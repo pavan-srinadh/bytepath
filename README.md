@@ -60,7 +60,7 @@ BytePath is an interactive coding learning platform designed to help learners bu
    npm run dev
    ```
 
-6. Open [http://localhost:3000](http://localhost:3000) in your browser.
+6. Open https://bytepath-learning-platform.vercel.app/ in your browser.
 
 ## Environment Configuration
 
