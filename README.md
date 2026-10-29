@@ -32,35 +32,7 @@ BytePath is an interactive coding learning platform designed to help learners bu
 - A Supabase project for authentication and cloud saving
 - An OpenRouter API key for AI coach responses
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone <your-repository-url>
-   ```
-
-2. Move into the project directory:
-
-   ```bash
-   cd bytepath-learning-platform
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-4. Create a `.env.local` file based on `.env.example` and configure the required environment variables.
-
-5. Start the development server:
-
-   ```bash
-   npm run dev
-   ```
-
-6. Open https://bytepath-learning-platform.vercel.app/ in your browser.
+Open https://bytepath-learning-platform.vercel.app/ in your browser.
 
 ## Environment Configuration
 
